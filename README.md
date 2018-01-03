@@ -24,3 +24,6 @@ Then the 16mUrbanSound8K will be created by running the 2nd notebook that conver
 - First classification just by transferring other problem solution: [3_urban_sound_classification_TF_estimator.ipynb](3_urban_sound_classification_TF_estimator.ipynb)
 
 
+## Example learning log
+![Example learning log](learning_log.png)
+
